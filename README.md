@@ -4,13 +4,12 @@ This was done as coursework for the course [ID2223](https://www.kth.se/student/k
 Project goals:
 1. Predicting the pickup density for an average day of week and time of day
 2. Predicting the pickup density for a specific date and time in the future
-3. Predicting the dropoff location (lat/long) based on the pickup location & time, day of week
 
 ## Getting Started
 
 ### Prerequisites
 
-Project is done in Jupyter notebooks. Tested on Python 3.5.
+Project is done in Jupyter notebooks. Tested on Python 2.7.
 ```
  [Geohash](https://pypi.python.org/pypi/geohash2/1.1)
  Pyspark(version 2.2.0)
@@ -18,3 +17,6 @@ Project is done in Jupyter notebooks. Tested on Python 3.5.
 ```
 ## Authors
 * **Alexander Barosen** - [abarosen](https://github.com/Abarosen)
+* **Sebastian Törnqvist** - [stornqvist](https://github.com/stornqvist)
+* **Amir Rabiee** - [Esoteric925](https://github.com/Esoteric925)
+* **Henrik Nguyen** - [HenkeNG](https://github.com/HenkeNg)
